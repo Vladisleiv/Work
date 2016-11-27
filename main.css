@@ -30,6 +30,7 @@ body {
     background-color: #e5eecc;
     border: solid 1px #c3c3c3;
     margin:15px;
+    width: 500px;
 }
 
 #panel {
@@ -42,7 +43,7 @@ body {
     text-align: center;
     background-color: #e5eecc;
     border: solid 1px #c3c3c3;
-        margin:15px;
-
+    margin:15px;
+    width: 500px;
 }
 
