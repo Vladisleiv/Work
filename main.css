@@ -24,4 +24,25 @@ body {
 }
 
 
+#panel, #flip {
+    padding: 5px;
+    text-align: center;
+    background-color: #e5eecc;
+    border: solid 1px #c3c3c3;
+    margin:15px;
+}
+
+#panel {
+    padding: 50px;
+    display: none;
+}
+
+#panal, #flep {
+    padding: 5px;
+    text-align: center;
+    background-color: #e5eecc;
+    border: solid 1px #c3c3c3;
+        margin:15px;
+
+}
 
