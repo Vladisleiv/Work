@@ -84,3 +84,12 @@ body {
   .sidenav {padding-top: 15px;}
   .sidenav a {font-size: 18px;}
 }
+
+
+#ponal, #flop {
+    padding: 5px;
+    text-align: center;
+    background-color:  #3385ff;
+    border: solid 1px #c3c3c3;
+    margin:15px;
+}
